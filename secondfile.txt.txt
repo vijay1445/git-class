@@ -1,1 +1,2 @@
 this is same text that will be commited
+this is a bad code
